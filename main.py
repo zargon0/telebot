@@ -16,7 +16,7 @@ import webapp2
 
 TOKEN = 'YOUR_BOT_TOKEN_HERE'
 
-BASE_URL = 'https://api.telegram.org/bot' + TOKEN + '/'
+BASE_URL = '177608832:AAFUeS1v_6rQ9YdeMXY-BthrC_jmLV5GeSY' + TOKEN + '/'
 
 
 # ================================
